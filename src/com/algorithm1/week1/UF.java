@@ -1,6 +1,6 @@
 package com.algorithm1.week1;
 import  java.util.Scanner;
-
+import  edu.princeton.cs.algs4.*;
 // eager approach
 class QuickFindUF {
 	private int[] id;
